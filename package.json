@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "feathers-shell",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@feathersjs/express": "^4.5.11",
+    "@feathersjs/feathers": "^4.5.11",
+    "@feathersjs/socketio": "^4.5.11"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
