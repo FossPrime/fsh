@@ -3,6 +3,9 @@
 A terminal in feathers to help learn about new environements,
 particularly ones without ssh.
 
+- [CodeFlow](https://pr.new/github.com/FossPrime/fsh)
+- [StackBlitz Classic](https://stackblitz.com/fork/github/FossPrime/fsh)
+
 ## Commands
 
 clear is supported
