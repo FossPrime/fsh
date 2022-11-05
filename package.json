@@ -9,6 +9,6 @@
     "@feathersjs/socketio": "^4.5.11"
   },
   "scripts": {
-    "start": "node app.js"
+    "dev": "node app.js"
   }
 }
