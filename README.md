@@ -9,6 +9,8 @@ clear is supported
 
 ### List of the 35 built in commands 2022-07-02
 
+Node CodeFlow released 2022-10-11 comes with git, but it is not enabled in StackBlitz classic.
+
 ```sh
 node_modules/.bin/mime
 /bin/bash
